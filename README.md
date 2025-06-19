@@ -1,4 +1,5 @@
-## ABOUT
+HOLLIEBSCOTT@GMAIL.COM
+#$##ABOUT
 
 [Chrome Music Lab](https://musiclab.chromeexperiments.com) is a website that makes learning music more accessible through fun, hands-on experiments. We’re sharing open-source code here so that others can build new experiments based on what we’ve started. The experiments use a variety of tools – Web Audio API, WebRTC, WebMIDI, Tone.js, and more. We hope they’re useful as inspiration or reference for anyone who wants to create their own music projects on the web.
 
